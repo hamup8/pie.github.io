@@ -15,7 +15,7 @@ exclude:
   - LICENSE.txt
   - README.md
   - vendor
-google_analytics:
+google_analytics: UA-119596368-1
 hashtag: piefm
 itunes_podcast_url:
 keywords: imas,anime,event,Vtuber,IT
